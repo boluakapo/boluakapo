@@ -1,7 +1,7 @@
 # About me
 
 **boluakapo** 
-Here are some things about me
+*Here are some things about me*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
